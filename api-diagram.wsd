@@ -1,0 +1,53 @@
+@startuml "BFF"
+!theme materia-outline
+
+node NextJS {
+    component Enquiry as nextJsEnquiry
+    component Products as nextJsProducts
+}
+
+node OrderCloud {
+    component Products as orderCloudProducts
+    component Specs as specs
+    component Dealers as dealers
+}
+
+node Discover {
+    component Products as discoverProducts
+}
+
+node MongoDB {
+    component Products as mongoDbProducts
+}
+
+node "Boomi/Kafka" {
+    component Products as boomiProducts
+}
+
+node Salesforce {
+    component Enquiry as sfEnquiry
+}
+
+node BFF {
+    component Products as bffProducts
+    component Enquiry as bffEnquiry
+}
+
+bffProducts <-- orderCloudProducts #Gray
+bffProducts <-- specs #Gray
+bffProducts <-- dealers #Gray
+
+bffProducts <-- discoverProducts #Gray
+
+bffProducts <-- mongoDbProducts #Gray
+
+nextJsEnquiry ---> bffEnquiry #Gray
+bffProducts ---> nextJsProducts #Gray
+
+bffEnquiry ---> sfEnquiry #Gray
+
+boomiProducts -u-> orderCloudProducts #Gray
+boomiProducts -u-> discoverProducts #Gray: SFTP
+boomiProducts -u-> mongoDbProducts #Gray
+
+@enduml

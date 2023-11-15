@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="856.25px" preserveAspectRatio="none" style="width:1319px;height:856px;background:#00000000;" version="1.1" viewBox="0 0 1319 856" width="1319.7917px" zoomAndPan="magnify"><defs><filter height="300%" id="f4chv5huch5mg" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0833333333333335"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.166666666666667" dy="4.166666666666667" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[0224861aadfed30cf3cf65b2df34ef3a]
+cluster NextJS--><g id="cluster_NextJS"><polygon fill="none" filter="url(#f4chv5huch5mg)" points="335.4167,27.0833,345.8333,16.6667,856.25,16.6667,856.25,159.5104,845.8333,169.9271,335.4167,169.9271,335.4167,27.0833" style="stroke:#2196F3;stroke-width:1.0416666666666667;"/><line style="stroke:#2196F3;stroke-width:1.0416666666666667;" x1="845.8333" x2="856.25" y1="27.0833" y2="16.6667"/><line style="stroke:#2196F3;stroke-width:1.0416666666666667;" x1="335.4167" x2="845.8333" y1="27.0833" y2="27.0833"/><line style="stroke:#2196F3;stroke-width:1.0416666666666667;" x1="845.8333" x2="845.8333" y1="27.0833" y2="169.9271"/><text fill="#2196F3" font-family="&quot;Verdana&quot;" font-size="20.8333" font-weight="bold" lengthAdjust="spacing" textLength="68.75" x="557.2917" y="60.7666">NextJS</text></g><!--MD5=[af15f24bb666a3eae2e3eeb718e69ac2]
+cluster OrderCloud--><g id="cluster_OrderCloud"><polygon fill="none" filter="url(#f4chv5huch5mg)" points="27.0833,466.9375,37.5,456.5208,453.125,456.5208,453.125,599.375,442.7083,609.7917,27.0833,609.7917,27.0833,466.9375" style="stroke:#2196F3;stroke-width:1.0416666666666667;"/><line style="stroke:#2196F3;stroke-width:1.0416666666666667;" x1="442.7083" x2="453.125" y1="466.9375" y2="456.5208"/><line style="stroke:#2196F3;stroke-width:1.0416666666666667;" x1="27.0833" x2="442.7083" y1="466.9375" y2="466.9375"/><line style="stroke:#2196F3;stroke-width:1.0416666666666667;" x1="442.7083" x2="442.7083" y1="466.9375" y2="609.7917"/><text fill="#2196F3" font-family="&quot;Verdana&quot;" font-size="20.8333" font-weight="bold" lengthAdjust="spacing" textLength="123.9583" x="173.9583" y="500.6208">OrderCloud</text></g><!--MD5=[7e85faff1a28c2cfd77c6cd18c6842a0]
+cluster Discover--><g id="cluster_Discover"><polygon fill="none" filter="url(#f4chv5huch5mg)" points="706.25,466.9375,716.6667,456.5208,901.0417,456.5208,901.0417,599.375,890.625,609.7917,706.25,609.7917,706.25,466.9375" style="stroke:#2196F3;stroke-width:1.0416666666666667;"/><line style="stroke:#2196F3;stroke-width:1.0416666666666667;" x1="890.625" x2="901.0417" y1="466.9375" y2="456.5208"/><line style="stroke:#2196F3;stroke-width:1.0416666666666667;" x1="706.25" x2="890.625" y1="466.9375" y2="466.9375"/><line style="stroke:#2196F3;stroke-width:1.0416666666666667;" x1="890.625" x2="890.625" y1="466.9375" y2="609.7917"/><text fill="#2196F3" font-family="&quot;Verdana&quot;" font-size="20.8333" font-weight="bold" lengthAdjust="spacing" textLength="94.7917" x="752.0833" y="500.6208">Discover</text></g><!--MD5=[5358f19665500acb1e5b193c6bff82da]
+cluster MongoDB--><g id="cluster_MongoDB"><polygon fill="none" filter="url(#f4chv5huch5mg)" points="478.125,466.9375,488.5417,456.5208,681.25,456.5208,681.25,599.375,670.8333,609.7917,478.125,609.7917,478.125,466.9375" style="stroke:#2196F3;stroke-width:1.0416666666666667;"/><line style="stroke:#2196F3;stroke-width:1.0416666666666667;" x1="670.8333" x2="681.25" y1="466.9375" y2="456.5208"/><line style="stroke:#2196F3;stroke-width:1.0416666666666667;" x1="478.125" x2="670.8333" y1="466.9375" y2="466.9375"/><line style="stroke:#2196F3;stroke-width:1.0416666666666667;" x1="670.8333" x2="670.8333" y1="466.9375" y2="609.7917"/><text fill="#2196F3" font-family="&quot;Verdana&quot;" font-size="20.8333" font-weight="bold" lengthAdjust="spacing" textLength="103.125" x="523.9583" y="500.6208">MongoDB</text></g><!--MD5=[4b380255285bb4616af46e1a12fc72ab]
+cluster Boomi/Kafka--><g id="cluster_Boomi/Kafka"><polygon fill="none" filter="url(#f4chv5huch5mg)" points="96.875,691.0417,107.2917,680.625,665.625,680.625,665.625,823.4688,655.2083,833.8854,96.875,833.8854,96.875,691.0417" style="stroke:#2196F3;stroke-width:1.0416666666666667;"/><line style="stroke:#2196F3;stroke-width:1.0416666666666667;" x1="655.2083" x2="665.625" y1="691.0417" y2="680.625"/><line style="stroke:#2196F3;stroke-width:1.0416666666666667;" x1="96.875" x2="655.2083" y1="691.0417" y2="691.0417"/><line style="stroke:#2196F3;stroke-width:1.0416666666666667;" x1="655.2083" x2="655.2083" y1="691.0417" y2="833.8854"/><text fill="#2196F3" font-family="&quot;Verdana&quot;" font-size="20.8333" font-weight="bold" lengthAdjust="spacing" textLength="140.625" x="306.7708" y="724.7249">Boomi/Kafka</text></g><!--MD5=[aa876481a036c6b2e1a2e36a9c99cc9e]
+cluster Salesforce--><g id="cluster_Salesforce"><polygon fill="none" filter="url(#f4chv5huch5mg)" points="1086.4583,691.0417,1096.875,680.625,1296.875,680.625,1296.875,823.4688,1286.4583,833.8854,1086.4583,833.8854,1086.4583,691.0417" style="stroke:#2196F3;stroke-width:1.0416666666666667;"/><line style="stroke:#2196F3;stroke-width:1.0416666666666667;" x1="1286.4583" x2="1296.875" y1="691.0417" y2="680.625"/><line style="stroke:#2196F3;stroke-width:1.0416666666666667;" x1="1086.4583" x2="1286.4583" y1="691.0417" y2="691.0417"/><line style="stroke:#2196F3;stroke-width:1.0416666666666667;" x1="1286.4583" x2="1286.4583" y1="691.0417" y2="833.8854"/><text fill="#2196F3" font-family="&quot;Verdana&quot;" font-size="20.8333" font-weight="bold" lengthAdjust="spacing" textLength="110.4167" x="1132.2917" y="724.7249">Salesforce</text></g><!--MD5=[63e0f7f49c14cb528c4a98398c8cba2f]
+cluster Azure Blobs--><g id="cluster_Azure Blobs"><polygon fill="none" filter="url(#f4chv5huch5mg)" points="926.0417,466.9375,936.4583,456.5208,1156.25,456.5208,1156.25,599.375,1145.8333,609.7917,926.0417,609.7917,926.0417,466.9375" style="stroke:#2196F3;stroke-width:1.0416666666666667;"/><line style="stroke:#2196F3;stroke-width:1.0416666666666667;" x1="1145.8333" x2="1156.25" y1="466.9375" y2="456.5208"/><line style="stroke:#2196F3;stroke-width:1.0416666666666667;" x1="926.0417" x2="1145.8333" y1="466.9375" y2="466.9375"/><line style="stroke:#2196F3;stroke-width:1.0416666666666667;" x1="1145.8333" x2="1145.8333" y1="466.9375" y2="609.7917"/><text fill="#2196F3" font-family="&quot;Verdana&quot;" font-size="20.8333" font-weight="bold" lengthAdjust="spacing" textLength="130.2083" x="971.875" y="500.6208">Azure Blobs</text></g><!--MD5=[70a18483d462b5b8afbe4b2392687415]
+cluster BFF--><g id="cluster_BFF"><polygon fill="none" filter="url(#f4chv5huch5mg)" points="335.4167,279.3021,345.8333,268.8854,856.25,268.8854,856.25,411.7292,845.8333,422.1458,335.4167,422.1458,335.4167,279.3021" style="stroke:#2196F3;stroke-width:1.0416666666666667;"/><line style="stroke:#2196F3;stroke-width:1.0416666666666667;" x1="845.8333" x2="856.25" y1="279.3021" y2="268.8854"/><line style="stroke:#2196F3;stroke-width:1.0416666666666667;" x1="335.4167" x2="845.8333" y1="279.3021" y2="279.3021"/><line style="stroke:#2196F3;stroke-width:1.0416666666666667;" x1="845.8333" x2="845.8333" y1="279.3021" y2="422.1458"/><text fill="#2196F3" font-family="&quot;Verdana&quot;" font-size="20.8333" font-weight="bold" lengthAdjust="spacing" textLength="36.4583" x="573.4375" y="312.9854">BFF</text></g><!--MD5=[4988a49189c179f550c6ca2a7f206c0d]
+entity nextJsEnquiry--><g id="elem_nextJsEnquiry"><rect fill="none" filter="url(#f4chv5huch5mg)" height="66.805" rx="4.1667" ry="4.1667" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="107.2917" x="731.7708" y="86.4583"/><rect fill="none" height="10.4167" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="15.625" x="818.2292" y="91.6667"/><rect fill="none" height="2.0833" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="4.1667" x="816.1458" y="93.75"/><rect fill="none" height="2.0833" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="4.1667" x="816.1458" y="97.9167"/><text fill="#2196F3" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="44.7917" x="757.8125" y="129.7933">Enquiry</text></g><!--MD5=[e7a72612c58225c1102e584ca62484b6]
+entity nextJsProductSearch--><g id="elem_nextJsProductSearch"><rect fill="none" filter="url(#f4chv5huch5mg)" height="66.805" rx="4.1667" ry="4.1667" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="152.0833" x="542.7083" y="86.4583"/><rect fill="none" height="10.4167" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="15.625" x="673.9583" y="91.6667"/><rect fill="none" height="2.0833" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="4.1667" x="671.875" y="93.75"/><rect fill="none" height="2.0833" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="4.1667" x="671.875" y="97.9167"/><text fill="#2196F3" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="89.5833" x="568.75" y="129.7933">Product Search</text></g><!--MD5=[c7c54b4da11b62efb10c3b04d64751d0]
+entity nextJsProductDetails--><g id="elem_nextJsProductDetails"><rect fill="none" filter="url(#f4chv5huch5mg)" height="66.805" rx="4.1667" ry="4.1667" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="153.125" x="352.6042" y="86.4583"/><rect fill="none" height="10.4167" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="15.625" x="484.8958" y="91.6667"/><rect fill="none" height="2.0833" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="4.1667" x="482.8125" y="93.75"/><rect fill="none" height="2.0833" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="4.1667" x="482.8125" y="97.9167"/><text fill="#2196F3" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="90.625" x="378.6458" y="129.7933">Product Details</text></g><!--MD5=[b88f29abf855a1b61ecb5aec949db515]
+entity orderCloudProducts--><g id="elem_orderCloudProducts"><rect fill="none" filter="url(#f4chv5huch5mg)" height="66.805" rx="4.1667" ry="4.1667" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="114.5833" x="321.875" y="526.3125"/><rect fill="none" height="10.4167" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="15.625" x="415.625" y="531.5208"/><rect fill="none" height="2.0833" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="4.1667" x="413.5417" y="533.6042"/><rect fill="none" height="2.0833" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="4.1667" x="413.5417" y="537.7708"/><text fill="#2196F3" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="52.0833" x="347.9167" y="569.6475">Products</text></g><!--MD5=[d8d10ec0a883211321da699ee7d5e00b]
+entity specs--><g id="elem_specs"><rect fill="none" filter="url(#f4chv5huch5mg)" height="66.805" rx="4.1667" ry="4.1667" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="96.875" x="188.0208" y="526.3125"/><rect fill="none" height="10.4167" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="15.625" x="264.0625" y="531.5208"/><rect fill="none" height="2.0833" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="4.1667" x="261.9792" y="533.6042"/><rect fill="none" height="2.0833" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="4.1667" x="261.9792" y="537.7708"/><text fill="#2196F3" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="34.375" x="214.0625" y="569.6475">Specs</text></g><!--MD5=[ed7ebc95e4fe0d7fb657fc2b36dc76e0]
+entity dealers--><g id="elem_dealers"><rect fill="none" filter="url(#f4chv5huch5mg)" height="66.805" rx="4.1667" ry="4.1667" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="108.3333" x="43.75" y="526.3125"/><rect fill="none" height="10.4167" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="15.625" x="131.25" y="531.5208"/><rect fill="none" height="2.0833" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="4.1667" x="129.1667" y="533.6042"/><rect fill="none" height="2.0833" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="4.1667" x="129.1667" y="537.7708"/><text fill="#2196F3" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="45.8333" x="69.7917" y="569.6475">Dealers</text></g><!--MD5=[28034d090dcc835cedfd3c0ab5eed712]
+entity discoverProducts--><g id="elem_discoverProducts"><rect fill="none" filter="url(#f4chv5huch5mg)" height="66.805" rx="4.1667" ry="4.1667" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="114.5833" x="722.9167" y="526.3125"/><rect fill="none" height="10.4167" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="15.625" x="816.6667" y="531.5208"/><rect fill="none" height="2.0833" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="4.1667" x="814.5833" y="533.6042"/><rect fill="none" height="2.0833" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="4.1667" x="814.5833" y="537.7708"/><text fill="#2196F3" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="52.0833" x="748.9583" y="569.6475">Products</text></g><!--MD5=[900db4c1e5337f80f5ab46ee73b7726d]
+entity mongoDbProducts--><g id="elem_mongoDbProducts"><rect fill="none" filter="url(#f4chv5huch5mg)" height="66.805" rx="4.1667" ry="4.1667" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="114.5833" x="494.7917" y="526.3125"/><rect fill="none" height="10.4167" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="15.625" x="588.5417" y="531.5208"/><rect fill="none" height="2.0833" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="4.1667" x="586.4583" y="533.6042"/><rect fill="none" height="2.0833" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="4.1667" x="586.4583" y="537.7708"/><text fill="#2196F3" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="52.0833" x="520.8333" y="569.6475">Products</text></g><!--MD5=[e27f629fcd186af10f4a095b4d1bbe09]
+entity boomiProducts--><g id="elem_boomiProducts"><rect fill="none" filter="url(#f4chv5huch5mg)" height="66.805" rx="4.1667" ry="4.1667" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="114.5833" x="391.6667" y="750.4167"/><rect fill="none" height="10.4167" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="15.625" x="485.4167" y="755.625"/><rect fill="none" height="2.0833" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="4.1667" x="483.3333" y="757.7083"/><rect fill="none" height="2.0833" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="4.1667" x="483.3333" y="761.875"/><text fill="#2196F3" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="52.0833" x="417.7083" y="793.7516">Products</text></g><!--MD5=[3f7f6362306d52b089b134e2e513f781]
+entity boomiDealers--><g id="elem_boomiDealers"><rect fill="none" filter="url(#f4chv5huch5mg)" height="66.805" rx="4.1667" ry="4.1667" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="108.3333" x="113.5417" y="750.4167"/><rect fill="none" height="10.4167" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="15.625" x="201.0417" y="755.625"/><rect fill="none" height="2.0833" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="4.1667" x="198.9583" y="757.7083"/><rect fill="none" height="2.0833" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="4.1667" x="198.9583" y="761.875"/><text fill="#2196F3" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="45.8333" x="139.5833" y="793.7516">Dealers</text></g><!--MD5=[5582bcead81d072cc1bd0df5ff39dd15]
+entity boomiSpecs--><g id="elem_boomiSpecs"><rect fill="none" filter="url(#f4chv5huch5mg)" height="66.805" rx="4.1667" ry="4.1667" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="96.875" x="257.8125" y="750.4167"/><rect fill="none" height="10.4167" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="15.625" x="333.8542" y="755.625"/><rect fill="none" height="2.0833" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="4.1667" x="331.7708" y="757.7083"/><rect fill="none" height="2.0833" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="4.1667" x="331.7708" y="761.875"/><text fill="#2196F3" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="34.375" x="283.8542" y="793.7516">Specs</text></g><!--MD5=[5cc73742f4f885359ebfbdc1634c0fb4]
+entity images--><g id="elem_images"><rect fill="none" filter="url(#f4chv5huch5mg)" height="66.805" rx="4.1667" ry="4.1667" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="105.2083" x="543.2292" y="750.4167"/><rect fill="none" height="10.4167" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="15.625" x="627.6042" y="755.625"/><rect fill="none" height="2.0833" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="4.1667" x="625.5208" y="757.7083"/><rect fill="none" height="2.0833" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="4.1667" x="625.5208" y="761.875"/><text fill="#2196F3" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="42.7083" x="569.2708" y="793.7516">Images</text></g><!--MD5=[9d7fe6f7d0f3f37d312512e644622287]
+entity sfEnquiry--><g id="elem_sfEnquiry"><rect fill="none" filter="url(#f4chv5huch5mg)" height="66.805" rx="4.1667" ry="4.1667" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="107.2917" x="1138.0208" y="750.4167"/><rect fill="none" height="10.4167" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="15.625" x="1224.4792" y="755.625"/><rect fill="none" height="2.0833" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="4.1667" x="1222.3958" y="757.7083"/><rect fill="none" height="2.0833" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="4.1667" x="1222.3958" y="761.875"/><text fill="#2196F3" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="44.7917" x="1164.0625" y="793.7516">Enquiry</text></g><!--MD5=[91de03400346b705747b1a8343c0256f]
+entity azureBlobStorage--><g id="elem_azureBlobStorage"><rect fill="none" filter="url(#f4chv5huch5mg)" height="66.805" rx="4.1667" ry="4.1667" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="177.0833" x="942.7083" y="526.3125"/><rect fill="none" height="10.4167" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="15.625" x="1098.9583" y="531.5208"/><rect fill="none" height="2.0833" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="4.1667" x="1096.875" y="533.6042"/><rect fill="none" height="2.0833" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="4.1667" x="1096.875" y="537.7708"/><text fill="#2196F3" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="114.5833" x="968.75" y="569.6475">Azure Blob Storage</text></g><!--MD5=[a42890600a4455e8e48b36e0c975b197]
+entity bffProductSearch--><g id="elem_bffProductSearch"><rect fill="none" filter="url(#f4chv5huch5mg)" height="66.805" rx="4.1667" ry="4.1667" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="152.0833" x="542.7083" y="338.6771"/><rect fill="none" height="10.4167" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="15.625" x="673.9583" y="343.8854"/><rect fill="none" height="2.0833" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="4.1667" x="671.875" y="345.9688"/><rect fill="none" height="2.0833" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="4.1667" x="671.875" y="350.1354"/><text fill="#2196F3" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="89.5833" x="568.75" y="382.012">Product Search</text></g><!--MD5=[343c3d5cb051883fb68662aed812a71e]
+entity bffProductDetails--><g id="elem_bffProductDetails"><rect fill="none" filter="url(#f4chv5huch5mg)" height="66.805" rx="4.1667" ry="4.1667" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="153.125" x="352.6042" y="338.6771"/><rect fill="none" height="10.4167" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="15.625" x="484.8958" y="343.8854"/><rect fill="none" height="2.0833" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="4.1667" x="482.8125" y="345.9688"/><rect fill="none" height="2.0833" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="4.1667" x="482.8125" y="350.1354"/><text fill="#2196F3" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="90.625" x="378.6458" y="382.012">Product Details</text></g><!--MD5=[0a8a8e549c69a4490fb8465d3da48508]
+entity bffEnquiry--><g id="elem_bffEnquiry"><rect fill="none" filter="url(#f4chv5huch5mg)" height="66.805" rx="4.1667" ry="4.1667" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="107.2917" x="731.7708" y="338.6771"/><rect fill="none" height="10.4167" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="15.625" x="818.2292" y="343.8854"/><rect fill="none" height="2.0833" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="4.1667" x="816.1458" y="345.9688"/><rect fill="none" height="2.0833" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="4.1667" x="816.1458" y="350.1354"/><text fill="#2196F3" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="44.7917" x="757.8125" y="382.012">Enquiry</text></g><!--MD5=[e3eb9f1b39fe7fbf382939eadc2691af]
+reverse link bffProductDetails to orderCloudProducts--><g id="link_bffProductDetails_orderCloudProducts"><path d="M418.5729,412.4167 C409.4792,446.1667 396.5313,494.25 387.9896,525.9479 " fill="none" id="bffProductDetails-backto-orderCloudProducts" style="stroke:#666666AA;stroke-width:3.125;"/><polygon fill="#666666" fill-opacity="0.66667" points="419.9375,407.3958,413.4768,415.3653,418.5835,412.4251,421.5236,417.5317,419.9375,407.3958" style="stroke:#666666AA;stroke-width:3.125;"/></g><!--MD5=[a021305933691cf1fe87e3f8c0431b3a]
+reverse link bffProductDetails to specs--><g id="link_bffProductDetails_specs"><path d="M354.7708,409.25 C336.6042,420.1771 318.1042,433.3021 303.125,448.1875 C280.5625,470.625 262.5208,502.1667 250.9271,525.8021 " fill="none" id="bffProductDetails-backto-specs" style="stroke:#666666AA;stroke-width:3.125;"/><polygon fill="#666666" fill-opacity="0.66667" points="359.0313,406.7292,348.839,407.8999,354.5443,409.3738,353.0704,415.079,359.0313,406.7292" style="stroke:#666666AA;stroke-width:3.125;"/></g><!--MD5=[ecf6ef628a9f5e7a66686661e91b2f32]
+reverse link bffProductDetails to dealers--><g id="link_bffProductDetails_dealers"><path d="M345.6354,382.0729 C291.2292,391.3542 221.0938,410.1667 169.7917,448.1875 C142.9479,468.0833 123.3438,501.2292 111.4583,526.0313 " fill="none" id="bffProductDetails-backto-dealers" style="stroke:#666666AA;stroke-width:3.125;"/><polygon fill="#666666" fill-opacity="0.66667" points="350.6354,381.25,340.6994,378.6953,345.4992,382.1135,342.0809,386.9133,350.6354,381.25" style="stroke:#666666AA;stroke-width:3.125;"/></g><!--MD5=[cb365b77a7f0d6f500a43414882057c4]
+reverse link bffProductDetails to mongoDbProducts--><g id="link_bffProductDetails_mongoDbProducts"><path d="M454.3646,411.1563 C476.75,444.9583 509.1458,493.8542 530.4063,525.9479 " fill="none" id="bffProductDetails-backto-mongoDbProducts" style="stroke:#666666AA;stroke-width:3.125;"/><polygon fill="#666666" fill-opacity="0.66667" points="451.7292,407.1875,453.4225,417.306,454.601,411.5325,460.3745,412.711,451.7292,407.1875" style="stroke:#666666AA;stroke-width:3.125;"/></g><!--MD5=[6f152e617d2b129b989ec48b0369541d]
+reverse link bffProductSearch to discoverProducts--><g id="link_bffProductSearch_discoverProducts"><path d="M651.4896,410.7396 C680.9063,444.5625 723.6875,493.7292 751.7292,525.9479 " fill="none" id="bffProductSearch-backto-discoverProducts" style="stroke:#666666AA;stroke-width:3.125;"/><polygon fill="#666666" fill-opacity="0.66667" points="648.2813,407.0625,651.2979,416.8682,651.7025,410.9895,657.5812,411.3941,648.2813,407.0625" style="stroke:#666666AA;stroke-width:3.125;"/></g><!--MD5=[6e1f169d3d6f3fe40779332a405c1f72]
+link nextJsEnquiry to bffEnquiry--><g id="link_nextJsEnquiry_bffEnquiry"><path d="M785.4167,153.6042 C785.4167,199.3854 785.4167,282.4896 785.4167,331.625 " fill="none" id="nextJsEnquiry-to-bffEnquiry" style="stroke:#666666AA;stroke-width:3.125;"/><polygon fill="#666666" fill-opacity="0.66667" points="785.4167,336.75,789.5833,327.375,785.4167,331.5417,781.25,327.375,785.4167,336.75" style="stroke:#666666AA;stroke-width:3.125;"/></g><!--MD5=[eceb8d7d44be390cf4bdf6c1ffaf48ed]
+reverse link nextJsProductSearch to bffProductSearch--><g id="link_nextJsProductSearch_bffProductSearch"><path d="M618.75,160.3021 C618.75,209.4375 618.75,292.5417 618.75,338.3333 " fill="none" id="nextJsProductSearch-backto-bffProductSearch" style="stroke:#666666AA;stroke-width:3.125;"/><polygon fill="#666666" fill-opacity="0.66667" points="618.75,155.1771,614.5833,164.5521,618.75,160.3854,622.9167,164.5521,618.75,155.1771" style="stroke:#666666AA;stroke-width:3.125;"/></g><!--MD5=[79a2b9c86e9a576fe6fa0f98c9270630]
+reverse link nextJsProductDetails to bffProductDetails--><g id="link_nextJsProductDetails_bffProductDetails"><path d="M429.1667,160.3021 C429.1667,209.4375 429.1667,292.5417 429.1667,338.3333 " fill="none" id="nextJsProductDetails-backto-bffProductDetails" style="stroke:#666666AA;stroke-width:3.125;"/><polygon fill="#666666" fill-opacity="0.66667" points="429.1667,155.1771,425,164.5521,429.1667,160.3854,433.3333,164.5521,429.1667,155.1771" style="stroke:#666666AA;stroke-width:3.125;"/></g><!--MD5=[1bcdb76bfa79afae700b3123a16717a7]
+link bffEnquiry to sfEnquiry--><g id="link_bffEnquiry_sfEnquiry"><path d="M839.4063,377.3542 C927.4688,385.4063 1096.2396,406.0313 1136.4583,448.1875 C1213.6146,529.0729 1206.6875,674.0417 1197.9583,743.5313 " fill="none" id="bffEnquiry-to-sfEnquiry" style="stroke:#666666AA;stroke-width:3.125;"/><polygon fill="#666666" fill-opacity="0.66667" points="1197.3229,748.4479,1202.6607,739.6866,1197.9927,743.2828,1194.3965,738.6149,1197.3229,748.4479" style="stroke:#666666AA;stroke-width:3.125;"/></g><!--MD5=[f496f490883f329e3e5b0352b499a74f]
+reverse link orderCloudProducts to boomiProducts--><g id="link_orderCloudProducts_boomiProducts"><path d="M391.4688,599.8958 C404.9063,642.6354 426.1771,710.3125 438.7292,750.2396 " fill="none" id="orderCloudProducts-backto-boomiProducts" style="stroke:#666666AA;stroke-width:3.125;"/><polygon fill="#666666" fill-opacity="0.66667" points="389.9375,595.0208,388.7742,605.2139,391.4995,599.9894,396.7239,602.7147,389.9375,595.0208" style="stroke:#666666AA;stroke-width:3.125;"/></g><!--MD5=[66eb0235595cb0118c54140f6c6d12a8]
+reverse link discoverProducts to boomiProducts--><g id="link_discoverProducts_boomiProducts"><path d="M716.4271,587.6042 C643.4583,618.4583 532.9479,665.7292 525,672.2917 C499.1354,693.6354 478.3125,725.9271 465.0417,750.0938 " fill="none" id="discoverProducts-backto-boomiProducts" style="stroke:#666666AA;stroke-width:3.125;"/><polygon fill="#666666" fill-opacity="0.66667" points="721.0417,585.6563,710.7842,585.4655,716.2437,587.6827,714.0265,593.1422,721.0417,585.6563" style="stroke:#666666AA;stroke-width:3.125;"/><text fill="#222222" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="28.125" x="631.25" y="650.0016">SFTP</text></g><!--MD5=[a481de4d4eaf1e445e007c4cbe14a39f]
+reverse link mongoDbProducts to boomiProducts--><g id="link_mongoDbProducts_boomiProducts"><path d="M534.0313,599.6354 C514.1771,642.3542 482.6563,710.2292 464.0729,750.2396 " fill="none" id="mongoDbProducts-backto-boomiProducts" style="stroke:#666666AA;stroke-width:3.125;"/><polygon fill="#666666" fill-opacity="0.66667" points="536.1979,594.9479,528.482,601.7093,534.0125,599.6756,536.0463,605.206,536.1979,594.9479" style="stroke:#666666AA;stroke-width:3.125;"/></g><!--MD5=[444d00d8aba583a31ed1089dee74a6c6]
+reverse link dealers to boomiDealers--><g id="link_dealers_boomiDealers"><path d="M110.2188,599.8958 C123.6563,642.6354 144.9271,710.3125 157.4792,750.2396 " fill="none" id="dealers-backto-boomiDealers" style="stroke:#666666AA;stroke-width:3.125;"/><polygon fill="#666666" fill-opacity="0.66667" points="108.6875,595.0208,107.5242,605.2139,110.2495,599.9894,115.4739,602.7147,108.6875,595.0208" style="stroke:#666666AA;stroke-width:3.125;"/></g><!--MD5=[b46162bd25c6865545db277595b59d1c]
+reverse link specs to boomiSpecs--><g id="link_specs_boomiSpecs"><path d="M248.7604,599.8958 C262.1979,642.6354 283.4688,710.3125 296.0208,750.2396 " fill="none" id="specs-backto-boomiSpecs" style="stroke:#666666AA;stroke-width:3.125;"/><polygon fill="#666666" fill-opacity="0.66667" points="247.2292,595.0208,246.0659,605.2139,248.7912,599.9894,254.0156,602.7147,247.2292,595.0208" style="stroke:#666666AA;stroke-width:3.125;"/></g><!--MD5=[2f29cc2b3a5c9a479a8dde17c5c81001]
+reverse link azureBlobStorage to images--><g id="link_azureBlobStorage_images"><path d="M961.0833,596.5313 C873.875,641.0104 726.9896,715.8958 648.6979,755.8229 " fill="none" id="azureBlobStorage-backto-images" style="stroke:#666666AA;stroke-width:3.125;"/><polygon fill="#666666" fill-opacity="0.66667" points="965.5938,594.2396,955.349,594.7839,960.9533,596.6044,959.1328,602.2087,965.5938,594.2396" style="stroke:#666666AA;stroke-width:3.125;"/></g><!--MD5=[14376e346d8b3accb9a4e7615f450b04]
+@startuml "BFF"
+!theme materia-outline
+
+node NextJS {
+    component Enquiry as nextJsEnquiry
+    component "Product Search" as nextJsProductSearch
+    component "Product Details" as nextJsProductDetails
+}
+
+node OrderCloud {
+    component Products as orderCloudProducts
+    component Specs as specs
+    component Dealers as dealers
+}
+
+node Discover {
+    component Products as discoverProducts
+}
+
+node MongoDB {
+    component Products as mongoDbProducts
+}
+
+node "Boomi/Kafka" {
+    component Products as boomiProducts
+    component Dealers as boomiDealers
+    component Specs as boomiSpecs
+    component Images as images
+}
+
+node Salesforce {
+    component Enquiry as sfEnquiry
+}
+
+node "Azure Blobs" {
+    component "Azure Blob Storage" as azureBlobStorage
+}
+
+node BFF {
+    component "Product Search" as bffProductSearch
+    component "Product Details" as bffProductDetails
+    component Enquiry as bffEnquiry
+}
+
+bffProductDetails <- - orderCloudProducts #666666aa
+bffProductDetails <- - specs #666666aa
+bffProductDetails <- - dealers #666666aa
+
+bffProductDetails <- - mongoDbProducts #666666aa
+
+bffProductSearch <- - discoverProducts #666666aa
+
+nextJsEnquiry - - -> bffEnquiry #666666aa
+bffProductSearch -u-> nextJsProductSearch #666666aa
+bffProductDetails -u-> nextJsProductDetails #666666aa
+
+bffEnquiry - - -> sfEnquiry #666666aa
+
+boomiProducts -u-> orderCloudProducts #666666aa
+boomiProducts -u-> discoverProducts #666666aa: SFTP
+boomiProducts -u-> mongoDbProducts #666666aa
+boomiDealers -u-> dealers #666666aa
+boomiSpecs -u-> specs #666666aa
+
+images -u-> azureBlobStorage #666666aa
+
+@enduml
+
+@startuml "BFF"
+
+
+
+skinparam backgroundColor transparent
+skinparam useBetaStyle false
+
+
+
+
+
+
+<style>
+  root {
+    BackgroundColor transparent
+    FontColor #2196F3
+    HyperLinkColor #fd7e14
+    LineColor #1a78c2
+    LineThickness 1
+    Margin 10
+    Padding 6
+    Shadowing 0.0
+  }
+  node {
+   Padding 15
+   roundcorner 20
+   BackgroundColor transparent
+  }
+  caption {
+    LineThickness 0
+  }
+  footer {
+    LineThickness 0
+  }
+  groupHeader {
+    BackgroundColor #fff
+    FontColor #9C27B0
+    FontStyle bold
+  }
+  header {
+    LineThickness 0
+  }
+  referenceHeader {
+    BackgroundColor transparent
+    FontColor #222
+    FontStyle bold
+  }
+  separator {
+    BackgroundColor #222
+    FontColor transparent
+    FontStyle bold
+  }
+  title {
+	FontSize 20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor  transparent
+	FontColor #2196F3
+	BorderColor #fff
+  }
+  nwdiagDiagram {
+	network {
+			FontColor #2196F3
+	BorderColor #2196F3
+	BackgroundColor transparent    
+		LineColor #2196F3
+		LineThickness 1.0
+		FontColor #1a78c2
+	}
+	server {
+			FontColor #2196F3
+	BorderColor #2196F3
+	BackgroundColor transparent
+	}
+	arrow {
+		FontColor #1a78c2
+		LineColor #1a78c2
+	}
+	group {
+		BackGroundColor #fff
+		LineColor $LIGHT_DARK
+		LineThickness 2.0
+		Margin 5
+		Padding 5
+	}
+  }
+  ganttDiagram {
+	task {
+			FontColor #2196F3
+	BorderColor #2196F3
+	BackgroundColor transparent
+		LineColor #2196F3
+		Margin 10
+		Padding 6
+	}
+	note {
+		FontColor #9C27B0
+		LineColor #7D1F8D
+		BackGroundColor transparent
+	}
+	separator {
+		LineColor #cccccc
+		BackGroundColor transparent
+		FontColor #cccccc
+	}
+	milestone {
+		FontColor #9C27B0
+		FontSize 16
+		FontStyle italic
+		BackGroundColor #fff
+		LineColor #cccccc
+	}
+	timeline {
+		BackgroundColor #fff
+		FontColor #cccccc
+	}
+	closed {
+		BackgroundColor #CC7A00
+		FontColor #ff9800
+	}
+  }
+</style>
+skinparam defaultFontName       "Verdana"
+skinparam defaultFontSize       12
+skinparam dpi                   100
+skinparam shadowing             true
+skinparam roundcorner           8
+skinparam ParticipantPadding    40
+skinparam BoxPadding            40
+skinparam Padding               10 
+skinparam TitleFontColor	    #222
+skinparam TitleFontSize	    	20
+skinparam TitleBorderThickness 	0
+skinparam ArrowColor            #666
+skinparam stereotype {
+    CBackgroundColor #fff
+    CBorderColor #cccccc
+    ABackgroundColor #70bf73
+    ABorderColor #3D8C40
+    IBackgroundColor #B7161C
+    IBorderColor $DANGER_DARK
+    EBackgroundColor #ffad33
+    EBorderColor #CC7A00
+    NBackgroundColor #b052c0
+    NBorderColor #7D1F8D
+}
+skinparam title {
+	FontColor	                 #2196F3
+	BorderColor	                 #cccccc
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              transparent
+}
+
+skinparam legend {
+	BackgroundColor transparent
+	BorderColor #cccccc
+	FontColor #222
+}
+
+skinparam swimlane {
+	BorderColor #9C27B0
+	BorderThickness 2
+	TitleBackgroundColor  #fff-#fff
+	TitleFontColor #2196F3
+}
+
+
+skinparam activity {
+		FontColor #2196F3
+	BorderColor #2196F3
+	BackgroundColor transparent
+	BarColor #4CAF50
+	StartColor #9C27B0
+	EndColor #9C27B0
+	DiamondBackgroundColor transparent
+  	DiamondBorderColor #cccccc
+	DiamondFontColor #cccccc
+}
+
+
+skinparam participant {
+		FontColor #2196F3
+	BorderColor #2196F3
+	BackgroundColor transparent
+	ParticipantBorderThickness 2
+}
+
+
+skinparam actor {
+		FontColor #2196F3
+	BorderColor #2196F3
+	BackgroundColor transparent
+}
+
+
+skinparam arrow {
+	Thickness 3
+	Color #2196F3
+	FontColor #222
+}
+
+
+skinparam sequence {
+	BorderColor #2196F3
+	TitleFontColor #2196F3
+	BackgroundColor transparent
+	StartColor #2196F3
+	EndColor #2196F3
+	BoxBackgroundColor transparent
+	BoxBorderColor #666
+	BoxFontColor #222
+	DelayFontColor #222
+	LifeLineBorderColor #cccccc
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor transparent
+	GroupBorderColor #666
+	GroupFontColor #222
+	GroupHeaderFontColor #9C27B0
+	DividerBackgroundColor transparent
+    DividerBorderColor #666
+    DividerBorderThickness 2
+    DividerFontColor #222
+	ReferenceBackgroundColor transparent
+	ReferenceBorderColor #666
+	ReferenceFontColor #222
+	ReferenceHeaderFontColor #9C27B0
+	StereotypeFontColor #2196F3
+}
+
+
+skinparam partition {
+	BorderColor #2196F3
+	FontColor #2196F3
+	BackgroundColor transparent
+}
+
+
+skinparam collections {
+		FontColor #2196F3
+	BorderColor #2196F3
+	BackgroundColor transparent
+}
+
+
+skinparam control {
+		FontColor #2196F3
+	BorderColor #2196F3
+	BackgroundColor transparent
+}
+
+
+skinparam entity {
+		FontColor #2196F3
+	BorderColor #2196F3
+	BackgroundColor transparent
+}
+
+
+skinparam boundary {
+		FontColor #2196F3
+	BorderColor #2196F3
+	BackgroundColor transparent
+}
+
+
+skinparam agent {
+	BackgroundColor transparent
+	BorderColor #999999
+	FontColor #333333
+}
+
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor transparent
+	BorderColor #9C27B0
+	FontColor #9C27B0
+}
+
+
+skinparam artifact {
+	BackgroundColor transparent
+	BorderColor #666
+	FontColor #666
+}
+
+
+skinparam component {
+		FontColor #2196F3
+	BorderColor #2196F3
+	BackgroundColor transparent
+}
+
+
+skinparam interface {
+	BackgroundColor  transparent
+	BorderColor  #e51c23
+	FontColor #222
+}
+
+
+skinparam storage {
+	BackgroundColor transparent
+  	BorderColor #ff9800
+	FontColor #ff9800
+}
+
+
+skinparam node {
+	BackgroundColor transparent
+	BorderColor #222
+	FontColor #222
+}
+
+
+skinparam cloud {
+	BackgroundColor #F2FCFE-#eeeeee
+	BorderColor #F2FCFE
+	FontColor #222
+}
+
+
+skinparam database {
+		FontColor #2196F3
+	BorderColor #2196F3
+	BackgroundColor transparent
+}
+
+
+skinparam class {
+		FontColor #2196F3
+	BorderColor #2196F3
+	BackgroundColor transparent
+	FontColor #fff
+	HeaderBackgroundColor #2196F3-#1a78c2
+	StereotypeFontColor #222
+	BorderThickness 1
+	AttributeFontColor #222
+	AttributeFontSize 11
+}
+
+
+skinparam object {
+		FontColor #2196F3
+	BorderColor #2196F3
+	BackgroundColor transparent
+	StereotypeFontColor #222
+	BorderThickness 1
+	AttributeFontColor #cccccc
+	AttributeFontSize 11
+}
+
+
+skinparam usecase {
+		FontColor #2196F3
+	BorderColor #2196F3
+	BackgroundColor transparent
+	BorderThickness 2
+	StereotypeFontColor #2196F3
+}
+
+
+skinparam rectangle {
+		FontColor #2196F3
+	BorderColor #2196F3
+	BackgroundColor transparent
+	BorderThickness 2
+	StereotypeFontColor #2196F3
+}
+
+
+skinparam package {
+	BackgroundColor transparent
+  	BorderColor #2196F3
+	FontColor #2196F3
+	BorderThickness 2
+}
+
+
+skinparam folder {
+	BackgroundColor transparent
+  	BorderColor #ff9800
+	FontColor #ff9800
+	BorderThickness 2
+}
+
+
+skinparam frame {
+	BackgroundColor transparent
+  	BorderColor #9C27B0
+	FontColor #9C27B0
+	BorderThickness 2
+}
+
+
+skinparam state {
+		FontColor #2196F3
+	BorderColor #2196F3
+	BackgroundColor transparent
+	StartColor #9C27B0
+	EndColor #9C27B0
+	AttributeFontColor #cccccc
+	AttributeFontSize 11
+}
+
+
+skinparam queue {
+		FontColor #2196F3
+	BorderColor #2196F3
+	BackgroundColor transparent
+}
+
+
+skinparam card {
+	BackgroundColor transparent
+	BorderColor #9C27B0
+	FontColor #9C27B0
+}
+
+
+skinparam file {
+	BackgroundColor transparent
+	BorderColor #666
+	FontColor #666
+
+}
+
+
+skinparam stack {
+		FontColor #2196F3
+	BorderColor #2196F3
+	BackgroundColor transparent
+}
+
+node NextJS {
+    component Enquiry as nextJsEnquiry
+    component "Product Search" as nextJsProductSearch
+    component "Product Details" as nextJsProductDetails
+}
+
+node OrderCloud {
+    component Products as orderCloudProducts
+    component Specs as specs
+    component Dealers as dealers
+}
+
+node Discover {
+    component Products as discoverProducts
+}
+
+node MongoDB {
+    component Products as mongoDbProducts
+}
+
+node "Boomi/Kafka" {
+    component Products as boomiProducts
+    component Dealers as boomiDealers
+    component Specs as boomiSpecs
+    component Images as images
+}
+
+node Salesforce {
+    component Enquiry as sfEnquiry
+}
+
+node "Azure Blobs" {
+    component "Azure Blob Storage" as azureBlobStorage
+}
+
+node BFF {
+    component "Product Search" as bffProductSearch
+    component "Product Details" as bffProductDetails
+    component Enquiry as bffEnquiry
+}
+
+bffProductDetails <- - orderCloudProducts #666666aa
+bffProductDetails <- - specs #666666aa
+bffProductDetails <- - dealers #666666aa
+
+bffProductDetails <- - mongoDbProducts #666666aa
+
+bffProductSearch <- - discoverProducts #666666aa
+
+nextJsEnquiry - - -> bffEnquiry #666666aa
+bffProductSearch -u-> nextJsProductSearch #666666aa
+bffProductDetails -u-> nextJsProductDetails #666666aa
+
+bffEnquiry - - -> sfEnquiry #666666aa
+
+boomiProducts -u-> orderCloudProducts #666666aa
+boomiProducts -u-> discoverProducts #666666aa: SFTP
+boomiProducts -u-> mongoDbProducts #666666aa
+boomiDealers -u-> dealers #666666aa
+boomiSpecs -u-> specs #666666aa
+
+images -u-> azureBlobStorage #666666aa
+
+@enduml
+
+PlantUML version 1.2022.7(Tue Aug 23 03:01:30 AEST 2022)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: AU
+--></g></svg>
